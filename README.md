@@ -5,7 +5,7 @@
 
 ![Isna's github stats](https://github-readme-stats.vercel.app/api?username=isnamaku&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamaku&langs_count=10&count_private=true)](https://github.com/isnamaku/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamaku&langs_count=10&count_private=truetheme=tokyonight)](https://github.com/isnamaku/github-readme-stats)
 <!--
 **isnamaku/isnamaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
